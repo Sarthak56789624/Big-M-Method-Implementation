@@ -14,7 +14,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import warnings
 warnings.filterwarnings("ignore")
 
-st.set_page_config(page_title="Big M Solver", page_icon="📐", layout="wide")
+st.set_page_config(page_title="Big M Solver", page_icon="📐", layout="wide")# Set app title, icon, and wide layout
 
 st.markdown("""
 <style>
